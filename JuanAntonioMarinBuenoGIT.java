@@ -16,9 +16,7 @@ public class JuanAntonioMarinBuenoGIT {
         String nombre= "Juan";
         String apellido= "Marín";
         String apellido2= "Bueno";
-        String edad="24";
-        String altura="1.82cm";
-        System.out.println(nombre + " " + apellido + " " + apellido2 + " " + edad + " " + altura);
+        System.out.println(nombre + " " + apellido + " " + apellido2);
         
         
         
